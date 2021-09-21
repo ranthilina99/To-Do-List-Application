@@ -1,7 +1,8 @@
 There is 2 user role login to the system, they are admin and user.
 admin can view all user details of the connection to the system.
 admin can delete the specific users. Also, user can view profiles
-and update the user profile, and change password.
+and update the user profile, and change password. user can register 
+to the system
 
 The user does not remember the password click the forgot password link.
 the user enters the email. user can change the password
